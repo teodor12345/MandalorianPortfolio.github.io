@@ -996,7 +996,23 @@ bottom:20px ;}
   overflow: hidden;
   background-repeat: no-repeat;
    }
-
+.i-have-spoken-container{
+  height: 242px;
+  width: 190px;
+  position: fixed;
+  top: auto;
+  bottom: 28.25%;
+  left: 8000px;
+  z-index: 999;
+}
+.i-have-spoken{
+  background-image: url("Images/I\ have\ spoken\ two.gif");
+  height: 410px;
+  width: 350px;
+  background-size: contain;
+  overflow: hidden;
+  background-repeat: no-repeat;
+}
 
 .dust {
   background-position: -254px -22px; }
