@@ -348,3 +348,17 @@
       /***/ })
       /******/ ]);
       //# sourceMappingURL=bundle.js.map
+      $(function() {
+        $("#mute").click(function(e) {
+            e.preventDefault();
+    
+            var song = $('audio')[0]
+            if (song.paused){
+                song.play();
+                document.getElementById("mute");
+            }else{
+                song.pause();
+                document.getElementById("mute");
+            }
+            });
+    });
