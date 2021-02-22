@@ -47,10 +47,7 @@ p {
 	animation: t-animation 24s;
 	animation-delay: 24s;
 }
-.t5{
-	animation: t-animation 48s;
-	animation-delay: 48s
-}
+
 
 .end{
 	animation: end-animation 2s;
