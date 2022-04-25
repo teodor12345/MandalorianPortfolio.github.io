@@ -5,7 +5,9 @@ body {
 	background-image:url(./Images/mandalorian\ backrround\ 1.jpg);
 	color:orangered;
 	display: flex;
-	
+	background-size: cover;
+	height: 100vh;
+
 	
 	
 	
@@ -74,7 +76,8 @@ p {
 	color:orangered;
 	cursor: pointer;
 	display: block;
-	width: 200px;
+	width: 150px;
+	height: 65px;
 	font-family: Arial;
 	font-size: 20px;
 	padding: 5px 15px;
@@ -101,7 +104,8 @@ p {
 	color:orangered;
 	cursor: pointer;
 	display: block;
-	width: 200px;
+	width:100px;
+	height: 30px;
 	font-family: Arial;
 	font-size: 20px;
 	padding: 5px 15px;
@@ -128,7 +132,8 @@ p {
 	color:orangered;
 	cursor: pointer;
 	display: block;
-	width: 200px;
+	width: 150px;
+	height: 30px;
 	font-family: Arial;
 	font-size: 20px;
 	padding: 5px 15px;
