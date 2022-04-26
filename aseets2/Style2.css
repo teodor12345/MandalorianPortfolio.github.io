@@ -888,15 +888,17 @@ bottom:20px ;}
   bottom: 25%;
   left: 6300px;
   z-index: 998;
-  position: relative; }
+  position: relative; 
+cursor: pointer;}
 
 .project-frame-5 {
-  background-image: url("../images/Untitled-xxx.png");
+  
   height: 100%;
   width: 100%;
   background-size: contain;
   background-repeat: no-repeat;
-  position: absolute; }
+  position: absolute;
+  cursor: pointer; }
 
 .portrait-5-cont {
   height: 300px;
@@ -904,7 +906,8 @@ bottom:20px ;}
   top: 33.5%;
   left: 230px;
   z-index: 99;
-  position: relative; }
+  position: relative; 
+cursor: pointer;}
 
 .portrait-5 {
   background-image: url("./Images/planet\ five.gif");
@@ -913,7 +916,8 @@ bottom:20px ;}
   border-radius: 60%;
   background-repeat: no-repeat;
   background-size: cover;
-  position: absolute; }
+  position: absolute;
+cursor: pointer; }
 
 .project-frame-6-cont {
   width: 1100px;
@@ -924,9 +928,9 @@ bottom:20px ;}
   position: relative; }
 
 .project-frame-6 {
-  background-image: url("../images/Untitled-xxx.png");
-  height: 100%;
-  width: 100%;
+  background-image: url("/aseets2/Images/planet\ four.gif");
+  height: 50%;
+  width: 50%;
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute; }
@@ -941,12 +945,34 @@ bottom:20px ;}
 
 .portrait-6 {
   background-image: url("../images/Screenshot_3.jpg");
-  min-height: 100%;
-  width: 100%;
+  min-height: 50%;
+  width: 50%;
   border-radius: 50%;
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute; }
+
+  .portrait-7-cont {
+    height: 357px;
+    width: 310px;
+    top: 36.5%;
+    left: 7000px;
+    top: 2300px;
+    z-index: 999;
+    position: relative; }
+  
+  .portrait-7 {
+    background-image: url("../aseets2/Images/planet\ three.gif");
+    min-height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute; }
+
+    
+    
+    
 
 .project-content {
   padding: 45px 50px; }
