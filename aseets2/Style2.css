@@ -193,7 +193,7 @@ ul, li, p {
   height: 139%;
   width: 139%;
   top: 90px;
-  right: 500px;
+  right: 100px;
   overflow: hidden;
   background-repeat: no-repeat;
   position: relative; }
@@ -205,7 +205,7 @@ ul, li, p {
 
 .skills-set-container {
   height: 600px;
-  width: 1000px;
+  width: 1475px;
   z-index: 998;
   position: relative;
   overflow: hidden; }
@@ -215,7 +215,7 @@ ul, li, p {
   bottom: 28.25%; }
 
 .skills-set-2 {
-  left: 12000px;
+  left: 11700px;
   bottom: 3.25%; }
 
 .skills-cloud-container {
