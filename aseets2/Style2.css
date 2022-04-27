@@ -753,7 +753,9 @@ bottom:20px ;}
   bottom: 40%;
   left: 4800px;
   z-index: 998;
-  position: relative; }
+  position: relative;
+  cursor: pointer;
+ }
 
 .project-frame-1 {
   background-image: url("");
@@ -761,15 +763,19 @@ bottom:20px ;}
   width: 100%;
   background-size: contain;
   background-repeat: no-repeat;
-  position: absolute; }
+  position: absolute;
+  cursor: pointer;
+ }
 
 .portrait-1-cont {
   height: 320px;
   width: 220px;
-  top: 79.5%;
+  top: 109.5%;
   left: 223px;
   z-index: 997;
-  position: relative;}
+  position: relative;
+  cursor: pointer;
+}
 
 .portrait-1 {
   background-image: url("./Images/planet\ one.gif");
@@ -778,7 +784,9 @@ bottom:20px ;}
   border-radius: 40%;
   background-repeat:repeat-y;
   background-size: contain;
-  position: absolute; }
+  position: absolute;
+  cursor: pointer;
+ }
 
 .project-frame-2-cont {
   width: 800px;
@@ -922,7 +930,7 @@ cursor: pointer; }
 .project-frame-6-cont {
   width: 1100px;
   height: 550px;
-  bottom: 35%;
+  bottom: 34%;
   left: 6450px;
   z-index: 998;
   position: relative; }
@@ -1004,7 +1012,42 @@ cursor: pointer; }
   background-size: contain;
   position: absolute; }
     
+  .project-frame-9-cont {
+    width: 1100px;
+    height: 550px;
+    bottom: 25%;
+    left: 6300px;
+    z-index: 998;
+    position: relative; 
+  cursor: pointer;}
+  
+  .project-frame-9 {
     
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    cursor: pointer; }
+  
+  .portrait-9-cont {
+    height: 300px;
+    width: 300px;
+    top: -43.5%;
+    left:-1430px;
+    z-index: 99;
+    position: relative; 
+  cursor: pointer;}
+  
+  .portrait-9 {
+    background-image: url("./Images/planet\ five.gif");
+    min-height: 100%;
+    width: 100%;
+    border-radius: 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+  cursor: pointer; }
 
 .project-content {
   padding: 45px 50px; }
