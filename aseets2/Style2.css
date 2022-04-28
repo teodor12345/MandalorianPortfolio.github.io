@@ -936,7 +936,7 @@ cursor: pointer; }
   position: relative; }
 
 .project-frame-6 {
-  background-image: url("/aseets2/Images/planet\ four.gif");
+  background-image: url("");
   height: 50%;
   width: 50%;
   background-size: contain;
@@ -952,8 +952,8 @@ cursor: pointer; }
   position: relative; }
 
 .portrait-6 {
-  background-image: url("../images/Screenshot_3.jpg");
-  min-height: 50%;
+  background-image: url("/aseets2/Images/planet\ four.gif");
+  min-height: 100%;
   width: 50%;
   border-radius: 50%;
   background-repeat: no-repeat;
