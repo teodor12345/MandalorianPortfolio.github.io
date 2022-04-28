@@ -786,7 +786,8 @@ bottom:20px ;}
   bottom: 32.5%;
   left: 5400px;
   z-index: 999;
-  position: relative; }
+  position: relative; 
+}
 
 .project-frame-2 {
   background-image: url("");
@@ -794,24 +795,27 @@ bottom:20px ;}
   width: 100%;
   background-size: contain;
   background-repeat: no-repeat;
-  position: absolute; }
+  position: absolute;
+ }
 
 .portrait-2-cont {
   height: 300px;
   width: 300px;
-  top: 35.5%;
+  top: 25.5%;
   left: 241px;
   z-index: 995;
-  position: relative; }
+  position: relative;
+ }
 
 .portrait-2 {
-  background-image: url("./Images/planet\ three.gif");
+  background-image: url("../aseets2/Images/planet\ three.gif");
   min-height: 100%;
   width: 100%;
-  border-radius: 50%;
+  border-radius: 60%;
   background-repeat: no-repeat;
   background-size: cover;
-  position: absolute; }
+  position: absolute; 
+}
 
 .project-frame-3-cont {
   width: 1100px;
@@ -819,7 +823,8 @@ bottom:20px ;}
   bottom: 25%;
   left: 5200px;
   z-index: 998;
-  position: relative; }
+  position: relative;
+ }
 
 .project-frame-3 {
   background-image: url("");
