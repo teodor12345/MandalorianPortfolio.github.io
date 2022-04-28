@@ -1074,6 +1074,39 @@ cursor: pointer; }
     background-size: cover;
     position: absolute; }
 
+    .project-frame-11-cont {
+      width: 800px;
+      height: 400px;
+      bottom: 40%;
+      left: 4800px;
+      z-index: 998;
+      position: relative; }
+    
+    .project-frame-11 {
+      background-image: url("");
+      height: 950px;
+      width: 100%;
+      background-size: contain;
+      background-repeat: no-repeat;
+      position: absolute; }
+    
+    .portrait-11-cont {
+      height: 320px;
+      width: 220px;
+      top: 20.5%;
+      left: 2463px;
+      z-index: 997;
+      position: relative;}
+    
+    .portrait-11 {
+      background-image: url("./Images/planet\ one.gif");
+      min-height: 100%;
+      width: 100%;
+      border-radius: 40%;
+      background-repeat:repeat-y;
+      background-size: contain;
+      position: absolute; }
+
 .project-content {
   padding: 45px 50px; }
 
