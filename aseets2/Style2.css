@@ -1039,7 +1039,40 @@ cursor: pointer; }
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
-  cursor: pointer; }
+  cursor: pointer; 
+}
+  .project-frame-10-cont {
+    width: 800px;
+    height: 650px;
+    bottom: 32.5%;
+    left: 5400px;
+    z-index: 999;
+    position: relative; }
+  
+  .project-frame-10 {
+    background-image: url("");
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute; }
+  
+  .portrait-10-cont {
+    height: 100px;
+    width: 100px;
+    top: 7.5%;
+    left: -151px;
+    z-index: 995;
+    position: relative; }
+  
+  .portrait-10 {
+    background-image: url("./Images/planet\ three.gif");
+    min-height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute; }
 
 .project-content {
   padding: 45px 50px; }
