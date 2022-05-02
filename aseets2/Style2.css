@@ -909,7 +909,7 @@ cursor: pointer;}
   height: 300px;
   width: 300px;
   top: 33.5%;
-  left: 230px;
+  left: 200px;
   z-index: 99;
   position: relative; 
 cursor: pointer;}
@@ -930,7 +930,8 @@ cursor: pointer; }
   bottom: 34%;
   left: 6450px;
   z-index: 998;
-  position: relative; }
+  position: relative;
+cursor: pointer; }
 
 .project-frame-6 {
   background-image: url("");
@@ -938,15 +939,18 @@ cursor: pointer; }
   width: 50%;
   background-size: contain;
   background-repeat: no-repeat;
-  position: absolute; }
+  position: absolute;
+ cursor: pointer; }
 
 .portrait-6-cont {
   height: 157px;
   width: 310px;
-  top: 36.5%;
-  left: 230px;
+  top: 20.5%;
+  left: 235px;
   z-index: 999;
-  position: relative; }
+  position: relative;
+  cursor: pointer;
+    }
 
 .portrait-6 {
   background-image: url("../aseets2/Images/planet\ four.gif");
@@ -955,7 +959,8 @@ cursor: pointer; }
   border-radius: 50%;
   background-repeat: no-repeat;
   background-size: cover;
-  position: absolute; }
+  position: absolute; 
+  cursor: pointer;}
 
   .portrait-7-cont {
     height: 357px;
@@ -1112,39 +1117,9 @@ cursor: pointer; }
       background-size: contain;
       position: absolute; 
     }
-      .project-frame-12-cont {
-        width: 800px;
-        height: 400px;
-        bottom: 43%;
-        left: 6300px;
-        z-index: 998;
-        position: relative; }
+    
+    
       
-      .project-frame-12 {
-        background-image: url("");
-        height: 950px;
-        width: 100%;
-        background-size: contain;
-        background-repeat: no-repeat;
-        position: absolute; }
-      
-      .portrait-12-cont {
-        height: 320px;
-        width: 220px;
-        top: 60.5%;
-        left: 1163px;
-        z-index: 997;
-        position: relative;}
-      
-      .portrait-12 {
-        background-image: url("./Images/planet\ one.gif");
-        min-height: 100%;
-        width: 100%;
-        border-radius: 40%;
-        background-repeat:repeat-y;
-        background-size: contain;
-        position: absolute; }
-
 
 .project-content {
   padding: 45px 50px; }
